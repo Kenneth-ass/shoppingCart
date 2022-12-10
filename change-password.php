@@ -44,8 +44,7 @@
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
                 <a class="navbar-brand" href="#">
-                    <i class="fa-solid fa-gun"></i>
-                    ArmYourSelf
+                    KARNAPER
                 </a>
             </div>
             <!-- Top Menu Items -->

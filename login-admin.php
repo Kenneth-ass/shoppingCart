@@ -44,7 +44,7 @@
 <body>
     <form method="post">
         <div class="dialog mt-5">
-            <h1><i class="fa-solid fa-gun"></i>ArmYourSelf</h1>
+            <h1>KARNAPER</h1>
             <input id="username" name="username" type="text" placeholder="User Name"><br>
             <input id="password" name="password" type="password" placeholder="Password"><br>
             <button id="btnLogin" name="btnLogin" type="submit">Login</button>
